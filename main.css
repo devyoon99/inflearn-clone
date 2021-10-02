@@ -1,5 +1,6 @@
 @import "reset.css";
 @import "screen/inf-nav__top.css";
+@import "screen/banner.css";
 
 .inf {
   margin: 0 370px;
