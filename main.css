@@ -3,6 +3,7 @@
 @import "screen/banner.css";
 @import "screen/nav__bottom.css";
 @import "screen/search-box.css";
+@import "screen/my-lecture-list.css";
 
 .inf {
   margin: 0 370px;
